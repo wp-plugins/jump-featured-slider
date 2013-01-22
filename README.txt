@@ -15,7 +15,7 @@ License URI:	   http://www.gnu.org/licenses/gpl-2.0.html
 Add more integration between your Jump community and your blog.
 
 == Description ==
-With this plugin, you can easily set a featured image for you community content slider via your RSS feed.
+With this plugin, you can easily set images for you community slider through your RSS feed.
 
 == Installation ==
 1. Upload the plugin folder to the `/wp-content/plugins/` directory
