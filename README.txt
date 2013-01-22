@@ -12,7 +12,7 @@ Version:           1.2
 License: 	   GPLv2 or later
 License URI:	   http://www.gnu.org/licenses/gpl-2.0.html
 
-Add more integration between your Jump community and your blog.
+Integrates your website with Jump communities.
 
 == Description ==
 With this plugin, you can easily set images for you community slider through your RSS feed.
