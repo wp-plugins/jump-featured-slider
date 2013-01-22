@@ -1,22 +1,21 @@
-=== Jump Featured Image ===
-Contributors:      ramonsouza82
-Plugin Name:       Jump Featured Image
+=== Jump Featured Slider ===
+Contributors:      jumprme, ramonsouza82
+Plugin Name:       Jump Featured Slider
 Plugin URI:        http://jumpr.me/widgets
-Tags:              social, tabs, like, share, widget, sidebar, jump, facebook, twitter, google
+Tags:              featured,image,jump,jumpr,community,page,facebook,social
 Author URI:        http://jumpr.me
 Author:            Ramon Souza
-Donate link:       http://jumpr.me/intl/credits
 Requires at least: 3.0.1
 Tested up to:      3.4
-Stable tag:        1.1
-Version:           1.1
+Stable tag:        1.2
+Version:           1.2
 License: 	   GPLv2 or later
 License URI:	   http://www.gnu.org/licenses/gpl-2.0.html
 
-Easy set a featured image for your community content slider.
+Add more integration between your Jump community and your blog.
 
 == Description ==
-Add more integration between your Jump community and your blog with this plugin.
+With this plugin, you can easily set a featured image for you community content slider via your RSS feed.
 
 == Installation ==
 1. Upload the plugin folder to the `/wp-content/plugins/` directory
@@ -24,6 +23,9 @@ Add more integration between your Jump community and your blog with this plugin.
 1. Add the widget to your sidebar and customize your tabs!
 
 == Changelog ==
+= 1.2 =
+* Fixed some bugs
+
 = 1.0 =
 * First release
 
@@ -33,6 +35,3 @@ Add more integration between your Jump community and your blog with this plugin.
 
 == Screenshots ==
 For screenshots go to http://jumpr.me/widgets.
-
-== Donations ==
-Support us at http://jumpr.me/intl/credits.
